@@ -10,3 +10,5 @@ USER insta
 WORKDIR /home/insta
 RUN gem install bundler
 RUN gem install rails -v 5.1.5
+
+CMD rails server
