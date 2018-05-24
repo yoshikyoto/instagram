@@ -29,3 +29,11 @@ Rails 5.1.5
 ```
 $ docker stop <CONTAINER ID>
 ```
+
+# Ruby
+
+```
+gem install bundler
+./bin/bindle instakk
+./bin/rails server
+```
